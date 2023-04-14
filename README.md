@@ -15,7 +15,7 @@
 - 💬 How to reach me: [im.zzm@outlook.com](mailto:im.zzm@outlook.com).
 - 😄 Looking for jobs/internships in 2024.
 
-<h4 align="center"> Thanks for Visiting!:innocent:</h4>
+<h4 align="left"> Thanks for Visiting!:innocent:</h4>
 
 
 
