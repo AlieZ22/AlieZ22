@@ -12,7 +12,7 @@
 - A Computer Engineering Undergraduate Student. & Art Enthusiast.
 - 🌱 Currently working in Wuhan, China.
 - ⚡ Interest: Storage System, Messaging System.
-- 💬 Reach me: [im.zzm@outlook.com](mailto:im.zzm@outlook.com).
+- ✨ For more: https://aliez22.github.io.
 - 😄 Looking for jobs/internships in 2024.
 
 <h4 align="left"> Thanks for Visiting!:innocent:</h4>
