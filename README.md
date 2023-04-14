@@ -9,10 +9,10 @@
 <!--Introduction -->
 ### I'm Zhimin Zeng
 
-- A Computer Engineering Undergraduate Student. & Literature and Art Enthusiast.
+- A Computer Engineering Undergraduate Student. & Art Enthusiast.
 - 🌱 Currently working in Wuhan, China.
-- ⚡ Fun fact: Storage System, Messaging System.
-- 💬 How to reach me: [im.zzm@outlook.com](mailto:im.zzm@outlook.com).
+- ⚡ Interest: Storage System, Messaging System.
+- 💬 Reach me: [im.zzm@outlook.com](mailto:im.zzm@outlook.com).
 - 😄 Looking for jobs/internships in 2024.
 
 <h4 align="left"> Thanks for Visiting!:innocent:</h4>
