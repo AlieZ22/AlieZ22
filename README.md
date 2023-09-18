@@ -13,7 +13,7 @@
 - 🌱 Currently working in Wuhan, China.
 - ⚡ Interest: Storage System, Messaging System.
 - ✨ For more: https://aliez22.github.io.
-- 😄 Looking for jobs/internships in 2023.
+- 😄 Looking for jobs in 2023.
 
 <h4 align="left"> Thanks for Visiting!:innocent:</h4>
 
