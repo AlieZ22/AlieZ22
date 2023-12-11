@@ -15,7 +15,7 @@
 - ✨ For more: https://aliez22.github.io.
 <!-- - 😄 Looking for jobs in 2023. -->
 
-<h4 align="left"> Thanks for Visiting!:innocent:</h4>
+<h4 align="left"> Thanks for Visiting!</h4>
 
 
 
