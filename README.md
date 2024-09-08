@@ -9,8 +9,8 @@
 <!--Introduction -->
 ### I'm Zhimin Zeng
 
-- A Computer Engineering Undergraduate Student. & Art Enthusiast.
-- 🌱 Currently working in Wuhan, China.
+- A Cloud Native Development Engineer. & Art Enthusiast.
+- 🌱 Currently working in Hangzhou, China.
 - ⚡ Interest: Storage System, Messaging System.
 - ✨ For more: https://aliez22.github.io.
 <!-- - 😄 Looking for jobs in 2023. -->
